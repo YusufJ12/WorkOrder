@@ -1,0 +1,23 @@
+/* Tambahkan ke stylesheet Anda */
+.dtr-bs-table tbody .rowReorder-drag {
+    cursor: grab; /* Menggunakan "grab" untuk menunjukkan kemampuan seret */
+}
+
+.dtr-bs-table tbody .rowReorder-drag:active {
+    cursor: grabbing; /* Menggunakan "grabbing" saat sedang menyeret */
+}
+
+#areaemboss {
+    margin-top: 40px; 
+    margin-left: 80px; 
+}
+
+#areafoils {
+    margin-top: 40px; 
+    margin-left: 80px; 
+}
+
+#canvass {
+    margin-top: -20px; 
+    margin-left: 80px; 
+}
